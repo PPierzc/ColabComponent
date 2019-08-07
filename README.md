@@ -1,4 +1,4 @@
-# colab-component
+# ColabComponent
 A React.js inspired Component for building a simple reactive UI in Google Colaboratory.
 
 ### Why?
