@@ -1,6 +1,8 @@
 # ColabComponent
 A React.js inspired Component for building a simple reactive UI in Google Colaboratory.
 
+![clicker_example](https://i.imgur.com/va0iR6z.gif)
+
 ### Why?
 Sometimes there is some manual work that has to be done with your data. Instead of building a custom desktop app, why not do so in Colab?
 
