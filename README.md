@@ -13,7 +13,7 @@ The `google.colab` package offers an interface to run python functions in the `o
 In a cell run:
 
 ```bash
-!pip3 install colab-component
+!pip3 install ColabComponent
 ```
 
 All the required dependencies are installed in the enviroment provided by google.
@@ -34,6 +34,8 @@ The package utilises Object-Oriented inheritance and is based around the basic c
 
 ## Example
 ```python
+from ColabComponent import Component
+
 class Counter(Component):
   def __init__(self):
     super().__init__()

@@ -13,7 +13,7 @@ with open("README.md", "r") as fh:
 setup(
 	name='ColabComponent',
 	packages=find_packages(),
-	version='0.0.1',
+	version='0.0.3',
 	license='MIT',
 	description='A React.js inspired Component for building a simple reactive UI in Google Colaboratory.',
 	author='Paweł A. Pierzchlewicz',
