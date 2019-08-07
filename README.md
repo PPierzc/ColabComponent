@@ -1,6 +1,9 @@
 # ColabComponent
 A React.js inspired Component for building a simple reactive UI in Google Colaboratory.
 
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/PPierzc/ColabComponent/blob/master/LICENSE)
+![Status Badge](https://img.shields.io/badge/status-alpha-important.svg)
+
 ![clicker_example](https://i.imgur.com/va0iR6z.gif)
 
 ### Why?
