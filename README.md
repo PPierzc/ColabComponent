@@ -65,4 +65,5 @@ class Counter(Component):
 Counter().display()
 ```
 
+#### Effect
 ![clicker_example](https://i.imgur.com/ejCkrpV.gif)
